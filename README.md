@@ -1,1 +1,2 @@
-#just started this journey
+
+#i have made a portfolio using html, css, gasp and animation. 
