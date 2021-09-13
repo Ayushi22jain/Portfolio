@@ -1,2 +1,2 @@
 
-#i have made a portfolio using html, css, gasp and animation. 
+#I have made a portfolio using html, css, gasp and animation. 
